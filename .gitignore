@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# 3ds build outputs
+*.3dsx
+*.smdh
+*.lst
+
