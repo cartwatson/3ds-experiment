@@ -8,7 +8,7 @@ int main(int argc, char* argv[])
 	gfxInitDefault();
 	consoleInit(GFX_TOP, NULL);
 
-	printf("Hello, world!\n");
+	printf("Hello, world! Built with DevKitPro by @cartwatson on 2025-02-28T01:29 LT\n");
 
 	// Main loop
 	while (aptMainLoop())
