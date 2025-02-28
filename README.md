@@ -16,3 +16,7 @@ more to come later
 3. `docker compose up -d`
 4. `docker exec -it devkitarm_container bash`
 5. `make`
+
+## Reference
+
+- [blog post about go compiling to C++](https://www.dolthub.com/blog/2023-02-01-embedding-go-in-c/)
