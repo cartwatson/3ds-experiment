@@ -12,10 +12,11 @@ more to come later
 ## Building
 
 1. install docker
-2. obtain docker image for devprokit
-3. `docker compose up -d`
-4. `docker exec -it devkitarm_container bash`
-5. `make`
+2. obtain docker image for [devprokit](https://hub.docker.com/r/devkitpro/devkitarm)  
+   - `docker pull devkitpro/devkitarm`
+4. `docker compose up -d`
+5. `docker exec -it devkitarm_container bash`
+6. `make`
 
 ## Reference
 
